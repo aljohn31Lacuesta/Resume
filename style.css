@@ -1,0 +1,202 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+body {
+  background-color: rgb(37, 34, 34);
+  margin: 10px auto;
+  width: 790px;
+  height: auto;
+}
+.container {
+  display: flex;
+  background-color: white;
+}
+.container1 {
+  height: auto;
+  width: 300px;
+  padding: 20px;
+}
+.img-container {
+  width: 247px;
+  height: 260px;
+}
+.img-container img {
+  width: 247px;
+  height: 260px;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 10px 0;
+}
+.profile p {
+  border: 2px solid;
+  text-align: center;
+  width: 120px;
+  font-size: 20px;
+}
+.profile-info {
+  text-align: justify;
+}
+.education {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 10px 0;
+}
+.education p {
+  border: 2px solid;
+  text-align: center;
+  width: 120px;
+  font-size: 20px;
+}
+.hobbies {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 10px 0;
+}
+.hobbies p {
+  border: 2px solid;
+  text-align: center;
+  width: 120px;
+  font-size: 20px;
+}
+.education-info p {
+  margin: 0 0 10px 0;
+}
+.hobbies-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hobbies-info {
+  margin: 0 20px 0 20px;
+}
+.photography img {
+  display: block;
+  margin: 0 auto;
+}
+.basketball {
+  text-align: center;
+}
+.basketball img {
+  display: block;
+  margin: 0 auto;
+}
+.hobbies-info1 {
+  margin: 0 20px 0 20px;
+}
+.movies {
+  text-align: center;
+}
+.movies img {
+  display: block;
+  margin: 0 auto;
+}
+.music {
+  text-align: center;
+}
+.music img {
+  display: block;
+  margin: 0 auto;
+}
+.movies,
+.photography {
+  margin: 0 0 10px 0;
+}
+.container2 {
+  width: 500px;
+  height: auto;
+  padding: 20px;
+}
+.info {
+  display: flex;
+}
+.name-container {
+  width: 168px;
+}
+.name {
+  font-size: 35px;
+  text-align: center;
+  margin: 10px 0 0 -10px;
+}
+.work {
+  text-align: center;
+}
+.information-container img {
+  margin: 4px 10px 0 0;
+}
+.phone,
+.address,
+.email,
+.facebook,
+.instagram {
+  display: flex;
+  font-size: 15px;
+  margin: 0 0 10px 0;
+}
+.border {
+  margin: 20px 0 20px 0;
+  width: 450px;
+  height: 2px;
+  background-color: black;
+}
+.objective {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 10px 0;
+}
+.objective p {
+  border: 2px solid;
+  text-align: center;
+  width: 120px;
+  font-size: 20px;
+}
+.objective-info {
+  text-align: justify;
+}
+.skills {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 10px 0;
+}
+.skills p {
+  border: 2px solid;
+  text-align: center;
+  width: 120px;
+  font-size: 20px;
+}
+.skills-info {
+  padding: 0 0 0 15px;
+}
+.experience {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 10px 0;
+}
+.experience p {
+  border: 2px solid;
+  text-align: center;
+  width: 120px;
+  font-size: 20px;
+}
+.experience-container {
+  display: flex;
+  margin: 0 0 20px 0;
+}
+.border-bullet {
+  margin: 15px 0 0 0;
+  width: 2px;
+  height: 50px;
+  background-color: black;
+}
+.year {
+  padding: 0 30px 0 13px;
+}
+
+.work-experience {
+  font-weight: bold;
+}
